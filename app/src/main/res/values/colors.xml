@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="purple_50">#F2E7FE</color>
+    <color name="purple_100">#DBB2FF</color>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_300">#985EFF</color>
+    <color name="purple_400">#7F39FB</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_600">#5600E8</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="purple_800">#30009C</color>
+    <color name="purple_900">#23036A</color>
+
+    <!-- Tonos principales del tema -->
+    <color name="colorPrimary">#6200EE</color>         <!-- purple_500 -->
+    <color name="colorPrimaryVariant">#3700B3</color>  <!-- purple_700 -->
+    <color name="colorSecondary">#BB86FC</color>       <!-- purple_200 -->
+</resources>
